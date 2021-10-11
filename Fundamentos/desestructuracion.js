@@ -21,3 +21,11 @@ function imprimeHero({ nombre, apellido, poder, edad = 2 }) {
 }
 
 imprimeHero(deadpool);
+
+const heroes = ['Deadpool', 'Superman', 'Batman'];
+
+//const h1 = heroes[0];
+
+const [h1, h2, h3] = heroes;
+
+console.log(h1, h2, h3);
