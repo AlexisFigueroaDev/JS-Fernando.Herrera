@@ -1,3 +1,3 @@
-# Curso NodeJS Fernando Herrera
+# Curso NodeJS - React
 
 - Fundamentos de jS
